@@ -1,0 +1,17 @@
+#UICLogo{
+    width:50%;
+    margin: auto;
+    display: block;
+}
+
+element.style{
+   
+}
+
+p{
+    color: navy;
+}
+
+.special{
+    text-align:center;
+}
